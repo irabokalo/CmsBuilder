@@ -1,0 +1,9 @@
+
+DAL/bin/Debug/netcoreapp1.1/DAL.deps.json
+DAL/bin/Debug/
+DAL/obj/
+DomainLogic/obj/
+packages/
+RoadBuilder/obj/
+RoadBuilder/bin/Debug/
+DomainLogic/bin/Debug/
